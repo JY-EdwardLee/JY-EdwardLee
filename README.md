@@ -1,8 +1,3 @@
-```
-Love and Work, Work and Love
-That's all there is
-- Sigmund Freud -
-```
 
 - 👋 Hi, I’m @JY-EdwardLee
 - 👀 I’m interested in swimming, cooking (especially for '냉장고를 부탁해'), music, sports, alcohol, animation, Edward Lee and Programming...
@@ -11,8 +6,12 @@ That's all there is
 - 📫 How to reach me : ghfy1245.dev@gmail.com/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+- 👇 Favorite quote
+```
+Love and Work, Work and Love
+That's all there is
+- Sigmund Freud -
+```
 
 
 <!---
