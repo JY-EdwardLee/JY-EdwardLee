@@ -1,3 +1,8 @@
+```
+Love and Work, Work and Love
+That's all there is
+```
+
 - 👋 Hi, I’m @JY-EdwardLee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +10,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 
 <!---
 JY-EdwardLee/JY-EdwardLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
