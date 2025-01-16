@@ -7,11 +7,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👇 Favorite quote
-```
-Love and Work, Work and Love
-That's all there is
-- Sigmund Freud -
-```
+ ```
+ Love and Work, Work and Love
+ That's all there is
+ - Sigmund Freud -
+ ```
 
 
 <!---
