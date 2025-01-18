@@ -6,7 +6,7 @@
 - 📫 How to reach me : ghfy1245.dev@gmail.com/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👇 Favorite quote
+- 👇 My favorite quote
  ```
  Love and Work, Work and Love
  That's all there is
